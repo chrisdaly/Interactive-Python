@@ -1,7 +1,7 @@
-Coursera Mini-project #3 - Stopwatch: The Game
+Coursera Mini-project #4 - Pong
 
-This was coded using codeskulptor. You can run it at: http://www.codeskulptor.org/#user26_vKATfaW5W3_6.py
+This was coded using codeskulptor. You can run it at: http://www.codeskulptor.org/#user23_hU1VuEipCwZ9Ygb.py
 
-"Combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons."
+"In this project, we will build a version of Pong, one of the first arcade video games (1972)."
 
-This project used timers, number formatting and string manipulation.
+This project used the previous techniques to create a simple two player game.
